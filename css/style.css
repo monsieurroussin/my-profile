@@ -11,7 +11,7 @@ h1, h2, h3, h4, p {
 
 h1 {
   font-weight: 700;
-  font-size: 32;
+  font-size: 32px;
 }
 
 
@@ -21,7 +21,7 @@ h1 {
 
 h4 {
   font-weight: 500;
-  font-size: 25;
+  font-size: 25px;
 }
 
 .container {
